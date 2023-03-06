@@ -1,0 +1,37 @@
+Name: Apostolos Zarras
+AFM: 123456789
+Status: Married Filing Jointly
+Income: 22570.0
+
+Receipts: 
+
+Receipt ID: 1
+Date: 1/1/8
+Kind: Entertainment
+Amount: 245.3
+Company: Wayne Industries
+Country: America
+City: Gotham
+Street: North Wabash
+Number: 3
+
+Receipt ID: 2
+Date: 2/3/4
+Kind: Entertainment
+Amount: 34242.0
+Company: uasgydjkd
+Country: jhgkkuygv
+City: kjgfku
+Street: fwfw
+Number: 2
+
+Receipt ID: 3
+Date: 2/8/7
+Kind: Entertainment
+Amount: 2154.6
+Company: ygh
+Country: hugik
+City: uygku
+Street: iugiu
+Number: 2
+

@@ -1,0 +1,27 @@
+Name: Indiana Jones
+AFM: 987654321
+Status: Single
+Income: 22570.0
+
+Receipts: 
+
+Receipt ID: 1
+Date: 8/7/98
+Kind: Entertainment
+Amount: 52.3
+Company: Wayne Industries
+Country: America
+City: Gotham
+Street: North Wabash
+Number: 3
+
+Receipt ID: 3
+Date: 2/3/1998
+Kind: Entertainment
+Amount: 80.0
+Company: Croft Industries
+Country: England
+City: London
+Street: Oxford
+Number: 2
+

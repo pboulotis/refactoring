@@ -1,0 +1,27 @@
+<Name> Indiana Jones </Name>
+<AFM> 987654321 </AFM>
+<Status> Single </Status>
+<Income> 22570.0 </Income>
+
+<Receipts> 
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 8/7/98 </Date>
+<Kind> Entertainment </Kind>
+<Amount> 52.3 </Amount>
+<Company> Wayne Industries </Company>
+<Country> America </Country>
+<City> Gotham </City>
+<Street> North Wabash </Street>
+<Number> 3 </Number>
+
+<ReceiptID> 3 </ReceiptID>
+<Date> 2/3/1998 </Date>
+<Kind> Entertainment </Kind>
+<Amount> 80.0 </Amount>
+<Company> Croft Industries </Company>
+<Country> England </Country>
+<City> London </City>
+<Street> Oxford </Street>
+<Number> 2 </Number>
+
